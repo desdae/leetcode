@@ -21,4 +21,9 @@ namespace CSharpSolutions._01300._01351
             return res;
         }
     }
+
+    public class SolutionLinq
+    {
+        public int CountNegatives(int[][] grid) => grid.Sum(r => r.Count(i => i < 0));
+    }
 }
