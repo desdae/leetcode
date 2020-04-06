@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using CSharpSolutions.Common;
+using System.Collections.Generic;
 
 namespace CSharpSolutions._01300._01361
 {
@@ -6,14 +7,6 @@ namespace CSharpSolutions._01300._01361
     {
         private int c = 0;
         private bool f = true;
-
-        public class TreeNode
-        {
-            public int val;
-            public TreeNode left;
-            public TreeNode right;
-            public TreeNode(int x) { val = x; }
-        }
 
         public void DFS(TreeNode t)
         {
