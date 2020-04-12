@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,11 +44,95 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="00000\00001\Solution.cs" />
+    <Compile Include="00000\00015\Solution.cs" />
+    <Compile Include="00000\00049\Solution.cs" />
+    <Compile Include="00000\00065\Solution.cs" />
+    <Compile Include="00000\00074\Solution.cs" />
+    <Compile Include="00000\00098\Solution.cs" />
+    <Compile Include="00100\00104\Solution.cs" />
+    <Compile Include="00100\00122\Solution.cs" />
+    <Compile Include="00100\00136\Solution.cs" />
+    <Compile Include="00100\00151\Solution.cs" />
+    <Compile Include="00200\00202\Solution.cs" />
+    <Compile Include="00200\00219\Solution.cs" />
+    <Compile Include="00200\00226\Solution.cs" />
+    <Compile Include="00200\00283\Solution.cs" />
+    <Compile Include="00400\00432\Solution.cs" />
+    <Compile Include="00600\00617\Solution.cs" />
+    <Compile Include="00700\00771\Solution.cs" />
+    <Compile Include="00800\00832\Solution.cs" />
+    <Compile Include="00900\00938\Solution.cs" />
+    <Compile Include="01200\01295\Solution.cs" />
+    <Compile Include="01300\01302\Solution.cs" />
+    <Compile Include="01300\01313\Solution.cs" />
+    <Compile Include="01300\01315\Solution.cs" />
+    <Compile Include="01300\01323\Solution.cs" />
+    <Compile Include="01300\01332\Solution.cs" />
+    <Compile Include="01300\01342\Solution.cs" />
+    <Compile Include="01300\01344\Solution.cs" />
+    <Compile Include="01300\01345\Solution.cs" />
+    <Compile Include="01300\01346\Solution.cs" />
+    <Compile Include="01300\01347\Solution.cs" />
+    <Compile Include="01300\01351\Solution.cs" />
+    <Compile Include="01300\01352\Solution.cs" />
+    <Compile Include="01300\01353\Solution.cs" />
+    <Compile Include="01300\01354\Solution.cs" />
+    <Compile Include="01300\01356\Solution.cs" />
+    <Compile Include="01300\01357\Solution.cs" />
+    <Compile Include="01300\01359\Solution.cs" />
+    <Compile Include="01300\01360\Solution.cs" />
+    <Compile Include="01300\01361\Solution.cs" />
+    <Compile Include="01300\01362\Solution.cs" />
+    <Compile Include="01300\01363\Solution.cs" />
+    <Compile Include="01300\01365\Solution.cs" />
+    <Compile Include="01300\01366\Solution.cs" />
+    <Compile Include="01300\01367\Solution.cs" />
+    <Compile Include="01300\01372\Solution.cs" />
+    <Compile Include="01300\01373\Solution.cs" />
+    <Compile Include="01300\01374\Solution.cs" />
+    <Compile Include="01300\01376\Solution.cs" />
+    <Compile Include="01300\01377\Solution.cs" />
+    <Compile Include="01300\01380\Solution.cs" />
+    <Compile Include="01300\01381\Solution.cs" />
+    <Compile Include="01300\01382\Solution.cs" />
+    <Compile Include="01300\01385\Solution.cs" />
+    <Compile Include="01300\01386\Solution.cs" />
+    <Compile Include="01300\01387\Solution.cs" />
+    <Compile Include="01300\01389\Solution.cs" />
+    <Compile Include="01300\01390\Solution.cs" />
+    <Compile Include="01300\01391\Solution.cs" />
+    <Compile Include="01300\01394\Solution.cs" />
+    <Compile Include="01300\01395\Solution.cs" />
+    <Compile Include="01300\01396\Solution.cs" />
+    <Compile Include="01300\01399\Solution.cs" />
+    <Compile Include="01400\01400\Solution.cs" />
+    <Compile Include="01400\01401\Solution.cs" />
+    <Compile Include="01400\01402\Solution.cs" />
+    <Compile Include="01400\01403\Solution.cs" />
+    <Compile Include="01400\01404\Solution.cs" />
+    <Compile Include="01400\01405\Solution.cs" />
+    <Compile Include="01400\01408\Solution.cs" />
+    <Compile Include="01400\01409\Solution.cs" />
+    <Compile Include="01400\01410\Solution.cs" />
+    <Compile Include="01400\01411\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day08\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day09\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day10\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day11\Solution.cs" />
+    <Compile Include="Common\ListNode.cs" />
+    <Compile Include="Common\TreeNode.cs" />
+    <Compile Include="30.Day.Challenge\Day07\Solution.cs" />
+    <Compile Include="cont\1\Solution.cs" />
+    <Compile Include="cont\2\Solution.cs" />
+    <Compile Include="cont\3\Solution.cs" />
+    <Compile Include="cont\4\Solution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
