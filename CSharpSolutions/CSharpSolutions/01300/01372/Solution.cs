@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpSolutions.Common;
+using System;
 using System.Collections.Generic;
 using static CSharpSolutions._01300._01361.Solution;
 
