@@ -17,9 +17,9 @@ namespace CSharpSolutions._00700._00784
             if (pos < sb.Length)
             {
                 sb[pos] = sb[pos].ToString().ToUpper()[0];
-                Perm(pos + 1, new StringBuilder(sb.ToString()));
+                Perm(pos + 1, sb);
                 sb[pos] = sb[pos].ToString().ToLower()[0];
-                Perm(pos + 1, new StringBuilder(sb.ToString()));
+                Perm(pos + 1, sb);
             }
             else
             {
