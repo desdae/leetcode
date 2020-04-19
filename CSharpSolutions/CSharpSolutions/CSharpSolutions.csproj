@@ -61,6 +61,7 @@
     <Compile Include="00400\00432\Solution.cs" />
     <Compile Include="00600\00617\Solution.cs" />
     <Compile Include="00700\00771\Solution.cs" />
+    <Compile Include="00700\00784\Solution.cs" />
     <Compile Include="00800\00832\Solution.cs" />
     <Compile Include="00900\00938\Solution.cs" />
     <Compile Include="01200\01295\Solution.cs" />
@@ -121,6 +122,10 @@
     <Compile Include="30.Day.Challenge\Day10\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day11\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day12\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day13\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day14\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day15\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day16\Solution.cs" />
     <Compile Include="Common\ListNode.cs" />
     <Compile Include="Common\TreeNode.cs" />
     <Compile Include="30.Day.Challenge\Day07\Solution.cs" />
