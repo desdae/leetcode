@@ -32,14 +32,7 @@ namespace CSharpSolutions._00000._00064
 
             for (int j = 1; j < m; j++)
                 for (int i = 1; i < n; i++)
-                    if (dp[j, i - 1] > dp[j - 1, i])
-                    {
-                        dp[j, i] = dp[j - 1, i] + grid[j][i];
-                    }
-                    else
-                    {
-                        dp[j, i] = dp[j, i - 1] + grid[j][i];
-                    }
+                    dp[j, i] = Math.Min(dp[j - 1, i], dp[j, i - 1]) + grid[j][i];
 
             return dp[m - 1, n - 1];
         }
