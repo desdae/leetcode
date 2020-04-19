@@ -128,6 +128,7 @@
     <Compile Include="30.Day.Challenge\Day14\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day15\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day16\Solution.cs" />
+    <Compile Include="30.Day.Challenge\Day17\Solution.cs" />
     <Compile Include="Common\ListNode.cs" />
     <Compile Include="Common\TreeNode.cs" />
     <Compile Include="30.Day.Challenge\Day07\Solution.cs" />
