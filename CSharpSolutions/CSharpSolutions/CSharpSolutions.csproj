@@ -120,6 +120,7 @@
     <Compile Include="01400\01411\Solution.cs" />
     <Compile Include="01400\01417\Solution.cs" />
     <Compile Include="01400\01418\Solution.cs" />
+    <Compile Include="01400\01422\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day08\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day09\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day10\Solution.cs" />
