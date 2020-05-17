@@ -9,11 +9,9 @@ namespace CSharpSolutions._01400._01452
         {
             var res = new List<int>();
 
-            var x = favoriteCompanies;
-
             var h = new List<HashSet<string>>();
 
-            foreach (var c in x)
+            foreach (var c in favoriteCompanies)
                 h.Add(c.ToHashSet());
 
             for (int i = 0; i < h.Count; i++)
