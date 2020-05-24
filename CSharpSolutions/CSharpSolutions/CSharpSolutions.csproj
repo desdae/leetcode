@@ -49,6 +49,7 @@
     <Compile Include="00000\00049\Solution.cs" />
     <Compile Include="00000\00064\Solution.cs" />
     <Compile Include="00000\00065\Solution.cs" />
+    <Compile Include="00000\00070\Solution.cs" />
     <Compile Include="00000\00074\Solution.cs" />
     <Compile Include="00000\00098\Solution.cs" />
     <Compile Include="00100\00104\Solution.cs" />
