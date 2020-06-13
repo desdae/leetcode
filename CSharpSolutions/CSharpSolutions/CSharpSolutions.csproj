@@ -65,6 +65,7 @@
     <Compile Include="00200\00226\Solution.cs" />
     <Compile Include="00200\00283\Solution.cs" />
     <Compile Include="00400\00432\Solution.cs" />
+    <Compile Include="00500\00560\Solution.cs" />
     <Compile Include="00600\00617\Solution.cs" />
     <Compile Include="00700\00771\Solution.cs" />
     <Compile Include="00700\00784\Solution.cs" />
