@@ -161,6 +161,7 @@
     <Compile Include="01400\01492\Solution.cs" />
     <Compile Include="01400\01493\Solution.cs" />
     <Compile Include="01400\01496\Solution.cs" />
+    <Compile Include="01500\01502\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day08\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day09\Solution.cs" />
     <Compile Include="30.Day.Challenge\Day10\Solution.cs" />
